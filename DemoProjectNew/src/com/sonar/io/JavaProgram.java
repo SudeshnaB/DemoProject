@@ -21,7 +21,7 @@ public class JavaProgram {
 		String input = "GeeksforGeeks"; 
 		  
         // getBytes() method to convert string  
-        // into bytes[]... 
+        // into bytes[]...kk 
         byte [] strAsByteArray = input.getBytes(); 
   
         byte [] result =  
